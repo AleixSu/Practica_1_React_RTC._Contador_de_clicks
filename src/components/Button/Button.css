@@ -1,0 +1,12 @@
+.restarButton {
+  background-color: rgb(180, 128, 229);
+  border: 2px solid rgb(65, 65, 218);
+  color: black;
+  font-weight: 400;
+}
+.sumarButton {
+  background-color: rgb(229, 185, 128);
+  border: 2px solid rgb(0, 0, 0);
+  color: black;
+  font-weight: 400;
+}
